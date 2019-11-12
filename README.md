@@ -10,11 +10,12 @@ programming community, regardless its architecture, i mainly choose github for t
   
 ## Folders
 
-The content wil be splitted in four; `books` `links` `snippets` & `challenges`
-And then will be subdivided by architecture:
-    
-**i.e: `asm/snippets/i386/`**
-  
-There is no need to explaint what the folders content are, they are self-descriptive.  
-Tho i will put a little text on each one.
+The content wil be splitted in five; `books` `links` `snippets` `challenges` & `utils`  
+And then will be subdivided by architecture and if you can, by operative system (if there are OS oriented)
 
+    
+**i.e**  
+*`asm4all/snippets/x64_0-helloworld.asm`*  
+*`asm4all/books/i386/foobar.pdf`*  
+*`asm4all/books/i386/linux/foo.epub`*
+ 
