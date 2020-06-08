@@ -10,7 +10,7 @@ programming community, regardless its architecture, i mainly choose github for t
   
 ## Folders
 
-The content wil be splitted in five; `books` `links` `snippets` `challenges` & `utils`  
+The content wil be splitted in five; `books` `links` `snippets` `challenges` & `notes`  
 And then will be subdivided by architecture and if you can, by operative system (if there are OS oriented)
 
     
